@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    font-family: sans-serif;
+    /* background-repeat: no-repeat; */
+    background-size: 1600px;
+    
+   
+   /* background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg); */
+}
+.login{
+  background-color: aquamarine;
+  color: black;
+  border-color: darkcyan;
+  }
+ 
+  .cr{
+    cursor: pointer;
+    margin-top: 200px;
+    margin-left: 10px;
+    /* background-color: rgb(217, 248, 238); */
+    /* box-shadow: 2px 2px 4px rgb(149, 150, 150) ; */
+    background: linear-gradient(to right,rgb(95, 214, 227),rgb(99, 89, 175)); 
+  }
+
+
+  .cr1{
+    cursor: pointer;
+    /* background-color: rgb(217, 248, 238); */
+    margin-top: 200px;
+    margin-left: 10px;
+    background: linear-gradient(to right,rgb(95, 214, 227),rgb(99, 89, 175)); 
+   
+    
+  }
+  .cr2{
+    background: linear-gradient(to right,rgb(95, 214, 227),rgb(99, 89, 175)); 
+    cursor: pointer;
+    /* background-color: rgb(217, 248, 238); */
+    margin-top: 200px;
+    margin-left: 100px;
+  }
+.pp{
+  margin-top: -12px;
+  font-size: 20px;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* color: rgb(160, 158, 158); */
+  /* color: rgb(238, 77, 18); */
+  /* background: linear-gradient(to right,rgb(233, 219, 21),orangered); 
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent; */
+  background: linear-gradient(to right,rgb(255, 208, 0),orangered); 
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  font-size: 20px;
+  font-weight:700;
+}
+.crdbody{
+  display: flex;
+  }
+  .ct{
+    color: rgb(4, 4, 78);
+    size: 30px;
+   
+    
+  }
+
+  .spn{
+    
+  /* color: rgb(4, 4, 78); */
+  color: rgb(226, 9, 9);
+  
+  }
+.crdbtn{
+  color: whitesmoke;
+  background-color: rgb(55, 4, 103);
+  /* background-color: rgb(41, 146, 95); */
+  /* background: linear-gradient(to right,rgb(85, 228, 171),rgb(42, 179, 133)); */
+  width: 100px;
+  height: 40px;
+  
+}
+
+.strmain{
+  margin-left: 100px;
+  border-bottom-left-radius:30px ;
+    padding-left: 10px;
+    border-top-right-radius: 30px;
+    width: 500px;
+    border-style: groove;
+}
+  .str{
+    background: linear-gradient(to right,rgb(204, 244, 239),rgb(4, 242, 210)); 
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+   
+    
+    /* color: aquamarine; */
+    font-size:30px;
+    font-weight: bold;
+   
+    border-color: rgb(133, 132, 132);
+    box-shadow: gray;
+  }
+.im1{
+  width: 200px;
+  height: 200px;
+  margin-top: -800px;
+  margin-left: 900px;
+  border-style: groove;
+  
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 40px;
+}
+.btnbg{
+ 
+  margin-left: -90px;
+  margin-top: 20px;
+  
+
+}
+
+.ftr{
+  margin-top: 20px;
+  
+  color: whitesmoke;
+  background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg);
+  }
+.ftrp{
+  color: whitesmoke;
+  margin-left: 600px;
+}
+.p1{
+  
+  border-style: groove;
+  width: 160px;
+  height: 40px;
+  padding-top: 6px;
+  padding-left: 15px;
+  border-radius: 10px;
+  border-color: rgb(165, 164, 164);
+}
+.p2{
+  border-style: groove;
+  width: 160px;
+  height: 60px;
+  padding-top: 6px;
+  padding-left: 15px;
+  border-radius: 10px;
+  border-color: rgb(165, 164, 164);
+ 
+}
+.p3{
+  border-style: groove;
+  width: 160px;
+  height: 60px;
+  padding-top: 6px;
+  padding-left: 15px;
+  border-radius: 10px;
+  border-color: rgb(165, 164, 164);
+}
+.types{
+  color: aquamarine;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+/* .prem{
+  color: white;
+  margin-top: 300px;
+  background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg);
+  
+
+} */
+.cd{
+  
+  background: linear-gradient(to right,rgb(85, 228, 171),rgb(42, 179, 133));
+  margin-left: 190px;
+  color: black;
+  border-color: aquamarine;
+  color: rgb(3, 3, 49);
+  
+}
+   .bt2{
+    margin-left: 190px;
+    margin-top: 20px;
+    color: aquamarine;
+    background-color: #E80071;
+    border-radius: 50px;
+    width: 170px;
+   }
+  .start{
+    color: rgb(213, 213, 213);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-top: 60px;
+    margin-left: 100px;
+ 
+  }
+
+  .apple{
+    border-radius: 15px;
+    width: 55px;
+    height: 50px;
+  
+  }
+  .sj{
+    background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg);
+  }
+/* .ss{
+  
+  background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg);
+} */
+ 
+  .ss{
+    background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg);
+
+  }
+  /* HEADER */
+  .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 68px;
+    padding: 10px 40px;
+    border-style: groove;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: rgb(143, 252, 216);
+    /* background-image: url(https://e0.pxfuel.com/wallpapers/936/867/desktop-wallpaper-pink-violet-gradient-dark-purple-gradient-thumbnail.jpg); */
+    /* background-color: rgb(222, 221, 221);
+   
+     */
+     /* border-color: rgb(199, 199, 199); */
+   
+     
+  }
+  #drp{
+    width: 34px;
+    margin-left: -60px;
+  }
+ 
+  .header .navigation{
+    list-style: none;
+  
+
+  }
+  .header .navigation ul li{
+    display: inline-block;
+    padding: 10px 40px;
+    
+  }
+  .header .navigation ul li a{
+    color: #140a0a;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(220, 220, 220);
+  }
+  .header .btn{
+    padding: 10px 50px;
+  }
+  .header .btn button ,.col button{
+    padding: 10px 30px;
+  
+    
+    border-radius: 6px;
+    /* color: #fff; */
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  .ttl{
+    color: aquamarine;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
